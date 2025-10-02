@@ -1,6 +1,6 @@
 import { Outlet } from "react-router-dom";
 import NavbarOwner from "../../components/owner/NavbarOwner";
-import SideBar from "../../components/owner/SideBar";
+import SideBar from "../../components/owner/Sidebar";
 import { useAppContext } from "../../context/AppContext";
 import { useEffect } from "react";
 
